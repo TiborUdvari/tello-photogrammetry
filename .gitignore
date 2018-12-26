@@ -2,6 +2,17 @@
 # Created by https://www.gitignore.io/api/vim,macos,python,pycharm
 # Edit at https://www.gitignore.io/?templates=vim,macos,python,pycharm
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
 ### macOS ###
 # General
 .DS_Store
