@@ -81,7 +81,7 @@ h5py==2.7.0
 matplotlib==2.1.0
 entrypoints==0.2.3
 heapdict==1.0.0
-nltk==3.2.4
+nltk==3.4.5
 requests==2.13.0
 sphinxcontrib-websupport==1.0.1
 olefile==0.44
