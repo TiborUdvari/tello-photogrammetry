@@ -4,7 +4,7 @@ opencv-python==3.3.0.10
 image==1.5.27
 pygame==1.9.4
 simplejson==3.13.2
-cryptography==2.0.3
+cryptography==3.2
 bkcharts==0.2
 virtualenv-clone==0.3.0
 numba==0.37.0
