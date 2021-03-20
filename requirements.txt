@@ -60,7 +60,7 @@ w3lib==1.18.0
 jupyter-client==5.1.0
 pathlib2==2.3.0
 beautifulsoup4==4.6.0
-Jinja2==2.9.6
+Jinja2==2.11.3
 fake-useragent==0.1.11
 Babel==2.5.0
 zope.interface==4.4.3
