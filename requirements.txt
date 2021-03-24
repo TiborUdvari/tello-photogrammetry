@@ -44,7 +44,7 @@ msgpack-python==0.4.8
 pyee==5.0.0
 pyasn1-modules==0.2.2
 nbconvert==5.3.1
-rsa==3.4.2
+rsa==4.1
 pathtools==0.1.2
 isort==4.2.15
 PyWavelets==0.5.2
