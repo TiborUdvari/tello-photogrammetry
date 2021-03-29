@@ -75,7 +75,7 @@ toolz==0.8.2
 ipython==6.1.0
 pytest==3.2.1
 snowballstemmer==1.2.1
-Pygments==2.2.0
+Pygments==2.7.4
 navigator-updater==0.1.0
 h5py==2.7.0
 matplotlib==2.1.0
