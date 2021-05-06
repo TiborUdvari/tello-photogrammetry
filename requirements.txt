@@ -224,7 +224,7 @@ jupyter==1.0.0
 idna==2.6
 nbformat==4.4.0
 cachetools==2.1.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 youtube-upload==0.8.0
 pickleshare==0.7.4
 pyflakes==1.6.0
