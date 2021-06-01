@@ -25,7 +25,7 @@ sortedcontainers==1.5.7
 pandas==0.20.3
 Bottleneck==1.2.1
 httplib2==0.11.3
-urllib3==1.22
+urllib3==1.26.5
 pbr==3.1.1
 contextlib2==0.5.5
 p5==0.5.0
