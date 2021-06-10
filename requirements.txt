@@ -175,7 +175,7 @@ imagesize==0.7.1
 six==1.11.0
 hyperopt==0.1
 Twisted==17.9.0
-Django==2.1.4
+Django==2.2.24
 watchdog==0.8.3
 sortedcollections==0.5.3
 bitarray==0.8.1
