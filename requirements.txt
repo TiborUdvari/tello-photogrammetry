@@ -1,6 +1,6 @@
 tellopy==0.6.0
 av==6.1.0
-opencv-python==3.3.0.10
+opencv-python==3.4.7.28
 image==1.5.27
 pygame==1.9.4
 simplejson==3.13.2
