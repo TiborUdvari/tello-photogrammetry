@@ -72,7 +72,7 @@ terminado==0.6
 dask==0.15.3
 patsy==0.4.1
 toolz==0.8.2
-ipython==6.1.0
+ipython==7.16.3
 pytest==3.2.1
 snowballstemmer==1.2.1
 Pygments==2.2.0
