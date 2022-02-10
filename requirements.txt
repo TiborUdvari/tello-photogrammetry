@@ -217,7 +217,7 @@ glob2==0.5
 pycurl==7.43.0
 jupyterlab-launcher==0.4.0
 appnope==0.1.0
-tensorflow==1.5.0
+tensorflow==2.5.3
 enum34==1.1.6
 SQLAlchemy==1.1.13
 jupyter==1.0.0
