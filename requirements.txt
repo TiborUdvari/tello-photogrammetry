@@ -140,7 +140,7 @@ singledispatch==3.4.0.3
 parse==1.9.0
 unicodecsv==0.14.1
 google-auth-httplib2==0.0.3
-protobuf==3.5.2.post1
+protobuf==3.15.0
 gevent==1.2.2
 pyquery==1.4.0
 asn1crypto==0.22.0
